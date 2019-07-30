@@ -3,7 +3,7 @@
 This projects requires "SDL2.dll", "SDL2_ttf.dll, "SDL2_image.dll, "SDL2_mixer.dll", "libfreetype-6.dll", "libpng16-16.dll", "zlib1.dll" under Windows.
 
 Controls:
-- 'Z': MANUAL mode
+- 'Z': MANUAL mode.
   - '1', '2', '3' and '4': control each engine individually using 50% of thrust.
   - Arrows: accelerate the orbiter left/right/up/down with a combined action of different engines.
   - ',' and '.': accelerate the orbiter counterclockwise/clockwise with a combined action of different engines.
