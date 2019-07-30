@@ -12,4 +12,4 @@ Controls:
 - 'D': enable/disable data, showing the target for GOTOREST and ORBITMOUSE modes, and the power of each engine
 - 'S': enable/disable sound
 
-![Test Image](https://github.com/SimoneDut/orbiter/rocket.png)
+![Test Image](https://github.com/SimoneDut/orbiter/blob/master/rocket.png)
