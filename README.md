@@ -12,4 +12,15 @@ Controls:
 - 'D': enable/disable data, showing the target for GOTOREST and ORBITMOUSE modes, and the power of each engine
 - 'S': enable/disable sound
 
-![Test Image](https://github.com/SimoneDut/orbiter/blob/master/rocket.png)
+
+# MANUAL mode
+The orbiter is accelerating up and right
+![MANUAL mode](https://github.com/SimoneDut/orbiter/blob/master/screenshots/MANUAL.png)
+
+# GOTOREST mode
+The orbiter going back to its rest position and data is enabled
+![GOTOREST mode](https://github.com/SimoneDut/orbiter/blob/master/screenshots/GOTOREST.png)
+
+# ORBITMOUSE mode
+The orbiter is orbiting around the mouse and data is enabled
+![ORBITMOUSE mode](https://github.com/SimoneDut/orbiter/blob/master/screenshots/ORBITMOUSE.png)
